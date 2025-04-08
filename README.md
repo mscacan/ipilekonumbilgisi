@@ -27,7 +27,7 @@ Proje, sadece **2 dosya** ile çalışacak şekilde basit ve hızlı bir çözü
 
 ## Örnek Görüntü
 
-![Konum Bilgisi](https://via.placeholder.com/500x300?text=Konum+Bilgisi+Örneği)
+![Konum Bilgisi](https://i.hizliresim.com/237995x.png)
 
 ## Kullanılabilecek Teknolojiler:
 - PHP
