@@ -1,6 +1,9 @@
 <?php
 require_once 'api.php';
 
+// API anahtarınızı buraya yazın
+$apiKey = 'API_ANAHTARINIZI_BURAYA_KOPYALAYIN';
+
 // IP Geolocation verilerini al
 $geolocation = getGeolocationData($apiKey);
 ?>
