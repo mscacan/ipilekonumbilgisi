@@ -16,7 +16,7 @@ Proje, sadece **2 dosya** ile çalışacak şekilde basit ve hızlı bir çözü
    - [IP Geolocation API](https://ipgeolocation.io/) adresine kaydolun ve **API anahtarınızı** alın.
 
 2. **API Anahtarını Yapılandırın**:
-   - Proje dosyasındaki `api.php` dosyasına gidin ve aşağıdaki satırda bulunan **API_ANAHTARINIZI_BURAYA_KOPYALAYIN** kısmını aldığınız API anahtarı ile değiştirin.
+   - Proje dosyasındaki `index.php` dosyasına gidin ve aşağıdaki satırda bulunan **API_ANAHTARINIZI_BURAYA_KOPYALAYIN** kısmını aldığınız API anahtarı ile değiştirin.
      ```php
      $apiKey = 'API_ANAHTARINIZI_BURAYA_KOPYALAYIN';
      ```
