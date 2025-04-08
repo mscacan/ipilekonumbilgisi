@@ -2,9 +2,6 @@
 function getGeolocationData($apiKey) {
     // IP Geolocation API URL'si
     $url = "https://api.ipgeolocation.io/ipgeo?apiKey={$apiKey}";
-   
-    // API anahtarınızı buraya yazın
-    $apiKey = 'API_ANAHTARINIZI_BURAYA_KOPYALAYIN';
 
     // cURL ile API'den veri çekme
     $ch = curl_init();
